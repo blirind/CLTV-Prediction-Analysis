@@ -1,5 +1,7 @@
 # CLTV-Prediction-Analysis
 
+::: Please find my Kaggle notebook here: https://www.kaggle.com/blirinddanjolli/cltv-prediction-analysis to run codes together with dataset.
+
 Investments are company’s commitment for better future. Each company has it’s own calculations to determine the amount of investment, direction and time of exposure. Also a lot work should be done to determine which way to promote/advert our next steps. But as economics is here to say, for sharing limited resources to limitless demands; every company also has limited resources to reach certain part of their customers.
 
 But further of reaching them, we need to understand whether they will continue to buy from us. For example who will be our company’s top 10 most valuable customer 2 quarters later; or which ones aren’t buying anymore from our company so we can specify our adverts for them.
